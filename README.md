@@ -43,4 +43,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erica3211)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erica3211&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&exclude_repo=Showmeeverything)
